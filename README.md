@@ -12,7 +12,7 @@ Projects So Far:-
 
 Started small—with raw Excel sheets from my mother's former job. These datasets helped me practice handling inconsistencies, missing values, and structural issues commonly seen in real-world data.
 
-3. Credit Card Transactions Dataset (Kaggle)
+2. Credit Card Transactions Dataset (Kaggle)
 
 Used a real-world dataset to apply outlier detection techniques. Focused on identifying fraudulent transactions using:-
 
